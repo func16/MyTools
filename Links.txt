@@ -15,3 +15,5 @@ SoftDownload  https://zhuanlan.zhihu.com/p/163020942
 GayHub https://github.com/alex000kim/nsfw_data_scraper
 Graphic  https://csacademy.com/app/graph_editor/
 SublimeText https://www.sublimetext.com/
+Everything  https://www.voidtools.com/zh-cn/
+Snipaste  https://www.snipaste.com/
