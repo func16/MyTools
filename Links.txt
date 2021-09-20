@@ -1,0 +1,16 @@
+Oracle-JDK  https://www.oracle.com/cn/java/technologies/javase/javase8-archive-downloads.html
+// Java SE Development Kit 8u71=8u121
+WIN10-64x-LTSC  ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x64_dvd_9c09ff24.iso|4478906368|E7C526499308841A4A6D116C857DB669|/
+WIN10-32x-LTSC  ed2k://|file|cn_windows_10_enterprise_ltsc_2019_x86_dvd_1814dbab.iso|3196803072|2D39C54A2E99BAC308191C74A15B3237|/
+MSDN  msdn.itellyou.cn
+Ease  https://easings.net/cn
+Background  https://wallhaven.cc/
+Chinese-word  https://blog.csdn.net/blmoistawinde/article/details/82379256
+Baidunetdisk  https://blog.csdn.net/weixin_44112559/article/details/106601268
+MaterialDesign  https://www.uisdc.com/material-design-knowledge
+Software  https://www.zhihu.com/question/35088093
+FML  http://blog.hakugyokurou.net/?p=333
+Gov https://zwfw.gansu.gov.cn/gsjis/natural/register
+SoftDownload  https://zhuanlan.zhihu.com/p/163020942
+GayHub https://github.com/alex000kim/nsfw_data_scraper
+Graphic  https://csacademy.com/app/graph_editor/
