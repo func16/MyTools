@@ -17,3 +17,4 @@ Graphic  https://csacademy.com/app/graph_editor/
 SublimeText https://www.sublimetext.com/
 Everything  https://www.voidtools.com/zh-cn/
 Snipaste  https://www.snipaste.com/
+7zip  https://www.7-zip.org/
